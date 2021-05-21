@@ -1,7 +1,8 @@
 # Intune
-scripts & Solutions for Intune MDM
 
-Content:
+## Scripts & Solutions for Intune MDM
 
-macos - solutions for macOS 
-win10 - solutions for Windows 10
+### Content
+
+* macos - solutions for macOS
+* win10 - solutions for Windows 10
